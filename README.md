@@ -1,5 +1,5 @@
 # CrowdFunding
-A crowdfunding smart contarct using solidity for ethereum network
+A crowdfunding smart contract using solidity for ethereum network.
 
 ## About Project
 
